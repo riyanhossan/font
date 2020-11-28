@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Nerko+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald&family=Playfair+Display:ital@1&display=swap');
+.a{
+	font-family: 'Nerko One', cursive;
+}
+.b{
+	font-family: 'Oswald', sans-serif;
+}	
+.c{
+	font-family: 'Playfair Display', serif;
+}
